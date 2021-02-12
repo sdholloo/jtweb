@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: hollo
+Build-Jdk: 15
+Implementation-Title: jt-common
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.jt.vip
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/jt/jt-common
+Created-By: Maven Integration for Eclipse
+
